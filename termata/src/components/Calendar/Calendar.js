@@ -18,7 +18,6 @@ const CalendarComponent = () => {
     <div className='app'>
        
   <Container>
-  <Container>
       <Row>
         <Col>Monday</Col>
         <Col>Tuesday</Col>
@@ -76,7 +75,7 @@ const CalendarComponent = () => {
       </Row>
     </Container>
 
-  </Container>  
+  
       
     </div>
   );
